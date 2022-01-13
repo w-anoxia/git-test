@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hello git----1.3");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        
+        System.out.println("远程仓库 pull");
     }
 }
